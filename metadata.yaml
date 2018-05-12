@@ -19,6 +19,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Jules_Verne
     - http://pt.wikipedia.org/wiki/Júlio_Verne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17914#Mistress-Branican
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2006-03-04'
 gutenberg_type: Text
